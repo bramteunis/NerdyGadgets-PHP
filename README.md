@@ -1,7 +1,2 @@
-
-this project is an student made website from HBO-ICT students ICTM1P1 for the course KBS.
-
-responsive for screen sizes:
--   1920*1080
-=======
-
+### **Project Description:**  
+**NerdyGadgets-PHP** is a dynamic **PHP**-based webshop tailored for tech enthusiasts and gadget lovers. The application features product listings, a shopping cart, user authentication, and a streamlined checkout process. With a clean interface and efficient backend logic, **NerdyGadgets** provides a smooth shopping experience for users looking to explore the latest in tech and gadgets.
